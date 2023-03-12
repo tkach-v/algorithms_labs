@@ -2,15 +2,15 @@
 
 Algorithm #1:
 
-<img src="C:\MY_Python\kpi\amo\labs\lab1\task1.jpg">
+<img src="task1.jpg">
 
 Algorithm #2:
 
-<img src="C:\MY_Python\kpi\amo\labs\lab1\task2.jpg">
+<img src="task2.jpg">
 
 Algorithm #3:
 
-<img src="C:\MY_Python\kpi\amo\labs\lab1\task3.jpg">
+<img src="task3.jpg">
 
 
 
