@@ -16,7 +16,7 @@ class Main(tk.Tk):
         default_font.configure(size=10)
 
         self.title("Лабораторна робота №2")
-        self.geometry("230x170")
+        self.geometry("210x165")
 
         tk.Label(self, text="Виконав: Ткач Володимир\n"
                             "Група: ІО-15\n\n"
@@ -33,8 +33,8 @@ class Main(tk.Tk):
         for i in range(len(y_theory)):
             y_theory[i] = y_theory[i]**2
 
-        # entry arrays for interpolation function
-        x_interp_entry = [0, 0.2, 0.7, 1]
+        # Вхідні масиви
+        x_interp_entry = [0, 0.25, 0.75, 1]
         y_interp_entry = numpy.cos(x_interp_entry).tolist()
         for i in range(len(y_interp_entry)):
             y_interp_entry[i] = y_interp_entry[i] ** 2
